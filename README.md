@@ -1,0 +1,1 @@
+This project is a web-based tool that allows users to search for and retrieve GitHub IDs of developers. Built with HTML, CSS, and JavaScript, it provides a responsive and user-friendly interface for quick and efficient searches.
